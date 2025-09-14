@@ -1,1 +1,2 @@
 # sstuc
+my first repository
